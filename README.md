@@ -24,3 +24,6 @@ You can check the [release page](https://github.com/ellipticaldoor/just_10_secon
 
 
 # Screenshots
+
+![screenshot 1](https://raw.githubusercontent.com/ellipticaldoor/just_10_seconds/master/resources/screenshots/screenshot_1.jpg)
+![screenshot 2](https://raw.githubusercontent.com/ellipticaldoor/just_10_seconds/master/resources/screenshots/screenshot_2.jpg)
