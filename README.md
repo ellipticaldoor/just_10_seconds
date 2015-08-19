@@ -1,6 +1,6 @@
 # Just 10 Seconds
 
-[official website](http://withaliasing.com/games/just_10_seconds/)
+[Official website](http://withaliasing.com/games/just_10_seconds/).
 
 The purpose of this game is to guess what is happening on the screen without knowing how to play. If you are stucked you can always check the instructions below!
 
