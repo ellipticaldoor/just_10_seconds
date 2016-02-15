@@ -2,7 +2,7 @@
 
 The purpose of this game is to guess what is happening on the screen without knowing how to play. If you are stucked you can always check the instructions below!
 
-This game was made for the [Ludum Dare 27](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=24027).
+This game was made for the [Ludum Dare 27](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=24027) [10 Seconds theme](http://ludumdare.com/compo/ld27-theme-voting-round-5-of-5/).
 
 
 # Instructions
