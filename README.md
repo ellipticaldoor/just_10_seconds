@@ -2,7 +2,7 @@
 
 Just 1.
 
-This game was made for the [Ludum Dare 27](http://ludumdare.com/compo/ludum-dare-27/) and the **10 Seconds** theme.
+This game was made for the [Ludum Dare 27](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=24027) and the **10 Seconds** theme.
 
 
 ## Instructions
