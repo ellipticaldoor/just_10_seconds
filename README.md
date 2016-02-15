@@ -5,7 +5,7 @@ The purpose of this game is to guess what is happening on the screen without kno
 This game was made for the [Ludum Dare 27](http://ludumdare.com/compo/ludum-dare-27/?action=preview&uid=24027) [10 Seconds theme](http://ludumdare.com/compo/ld27-theme-voting-round-5-of-5/).
 
 
-# Instructions
+## Instructions
 
 **0.** The color of your character changes randomly every second.
 
@@ -18,12 +18,12 @@ This game was made for the [Ludum Dare 27](http://ludumdare.com/compo/ludum-dare
 Have fun! :D
 
 
-# Download
+## Download
 
 You can check the [release page](https://github.com/ellipticaldoor/just_10_seconds/releases) of this repo to download the latest version.
 
 
-# Screenshots
+## Screenshots
 
 ![screenshot 1](https://raw.githubusercontent.com/ellipticaldoor/just_10_seconds/master/resources/screenshots/screenshot_1.jpg)
 ![screenshot 2](https://raw.githubusercontent.com/ellipticaldoor/just_10_seconds/master/resources/screenshots/screenshot_2.jpg)
